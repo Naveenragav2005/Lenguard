@@ -1,0 +1,80 @@
+Property Name: Grand Oaks & Willow Creek Combined Portfolio
+Property Address: 123 Complex Drive & 456 Willow Lane, Multiple Cities, States
+Report Date: 2024-03-15
+Property Manager: Sarah Johnson & Team
+Total Units: 250
+Portfolio ID: GW-2024-Q1
+Last Updated: 2024-03-15 14:30 EST
+
+Building Information:
+Grand Oaks: Buildings A-D, 150 units
+Willow Creek: Buildings E-H, 100 units
+
+Unit,Unit Type,Square Feet,Status,Tenant Name,Move In,Lease Start,Lease End,Move Out,Monthly Rent,Security Deposit,Other Income,Total Monthly,Balance,Notes
+A-101,2B/2B-Deluxe,1050,Occupied,John & Mary Smith,2023-01-15,2023-01-15,2024-01-14,,2150.00,2150.00,75.00,2225.00,-150.00,"Pet Rent $25, Parking $50, Late Fee Pending"
+A-102,1B/1B-Standard,650,Vacant (Make Ready),,,,,2024-02-28,1500.00,0.00,0.00,0.00,0.00,"Paint/Carpet - Est. Ready 3/20, Previous tenant damage $2500"
+A-103,Studio-ADA,450,Notice-MTM,Sarah Brown,2022-06-01,2022-06-01,MTM,2024-04-30,1250.00,1250.00,0.00,1250.00,50.00,"30-day notice received, ADA unit, Month-to-Month since 2023-06"
+A-104,3B/2B-Premium,1250,Occupied-Delinquent,Michael Lee & Family,2023-08-15,2023-08-15,2024-08-14,,2500.00,2500.00,100.00,2600.00,5200.00,"Legal proceedings initiated, 2 months behind, Pet Rent $50, Premium View $50"
+B-201,2B/1B-Renovated,850,Vacant-Leased,David & Emma Miller,2024-04-01,2024-04-01,2025-03-31,,1900.00,1900.00,25.00,1925.00,-1900.00,"Security deposit received, Move-in special -$500, Pet fee pending"
+B-202,1B/1B+Den,800,Occupied-Section 8,Patricia Wilson,2023-03-01,2023-03-01,2024-02-29,,1750.00,500.00,0.00,1750.00,0.00,"HAP: $1200, Tenant Portion: $550, Annual inspection due"
+B-203,2B/2B-Classic,950,Occupied-Corporate,TechCorp Holdings LLC,2023-11-15,2023-11-15,2024-11-14,,2200.00,4400.00,150.00,2350.00,0.00,"Corporate lease, Double deposit, Furnished unit premium $150"
+B-204,Studio-Loft,500,Vacant-Renovation,,,,,2024-01-31,1350.00,0.00,0.00,0.00,0.00,"Major renovation - Est. completion 5/1, Budget $25,000"
+C-301,2B/2B-Corner,1100,Occupied-Military,Capt. James Wilson,2023-05-01,2023-05-01,2024-04-30,,2100.00,0.00,75.00,2175.00,0.00,"Military clause, VA waived deposit, Corner premium $75"
+C-302,1B/1B-Standard,650,Notice-Transfer,Thomas Anderson,2022-09-15,2022-09-15,2024-03-31,2024-03-31,1600.00,1600.00,50.00,1650.00,0.00,"Corporate transfer, Early termination fee waived, Parking $50"
+C-303,3B/2B-Penthouse,1400,Occupied-Rent Control,Jennifer Martin,2010-07-01,2023-07-01,2024-06-30,,1895.00,1000.00,100.00,1995.00,0.00,"Rent control unit, Original rent $1200, Parking $50, Storage $50"
+C-304,2B/1B-Standard,850,Occupied-Concession,William Johnson,2023-10-01,2023-10-01,2024-09-30,,1950.00,1950.00,25.00,1975.00,0.00,"2 months free on 14-month lease (amortized), Pet rent $25"
+D-401,1B/1B-Upgraded,700,Occupied-Employee,Maria Garcia (Leasing),2024-01-15,2024-01-15,2025-01-14,,1200.00,0.00,0.00,1200.00,0.00,"Employee discount 50%, Must vacate upon employment end"
+D-402,2B/2B-Standard,950,Occupied-Sublease*,Christopher Lee (Primary),2023-12-01,2023-12-01,2024-11-30,,2000.00,2000.00,0.00,2000.00,150.00,"Approved sublease to Jane Doe, Sublease premium $100/mo"
+D-403,Studio-Standard,450,Vacant-Hold,,,,,2024-02-15,1300.00,0.00,0.00,0.00,0.00,"Model unit conversion, Hold for 60 days"
+E-101,2B/2B-Townhouse,1200,Occupied-Modified,Elizabeth Brown,2023-02-15,2023-02-15,2024-02-14,,2300.00,2300.00,150.00,2450.00,0.00,"Modified lease terms, WFH Premium $100, Parking $50"
+E-102,1B/1B-Classic,600,Occupied-Guarantor,Student Name (Co-sign),2023-08-01,2023-08-01,2024-07-31,,1500.00,3000.00,0.00,1500.00,750.00,"Parental guarantor, Double deposit, Late fee assessed"
+E-103,3B/2.5B-Deluxe,1350,Notice-Purchase,Robert & Amy Taylor,2022-11-15,2022-11-15,2024-05-15,2024-05-15,2800.00,2800.00,100.00,2900.00,0.00,"Buying home, 60-day notice, Storage $50, Pet $50"
+F-201,2B/2B-Garden,1000,Occupied-Reasonable Accommodation,Helen Martinez,2023-04-15,2023-04-15,2024-04-14,,2100.00,2100.00,0.00,2100.00,0.00,"Service animal - no pet rent, Modified unit features"
+F-202,1B/1B+Study,750,Occupied-Insurance,Fire Claim Resident,2024-02-01,2024-02-01,2024-05-01,,1800.00,0.00,0.00,1800.00,0.00,"Insurance placement - Unit G-103 fire, 90-day term"
+F-203,2B/1B-Standard,850,Vacant-Pending,,,,,2024-03-10,1900.00,0.00,0.00,0.00,0.00,"Application in process, Criminal check pending"
+
+Market Rent Summary:
+Unit Type,Square Feet,Market Rent Range,Notes
+Studio-Standard,450-500,1250-1400,Basic finishes
+Studio-Loft,500-550,1350-1500,Premium features
+1B/1B-Standard,600-700,1500-1700,Most common
+1B/1B+Den,750-800,1700-1900,Limited availability
+2B/1B-Standard,850-900,1850-2000,High demand
+2B/2B-Standard,950-1000,2000-2200,Best value
+2B/2B-Deluxe,1050-1100,2150-2400,Upgraded
+3B/2B-Standard,1200-1300,2400-2600,Family units
+3B/2B-Premium,1250-1400,2500-2800,Penthouse level
+2B/2B-Townhouse,1200-1250,2300-2500,Private entry
+
+Occupancy Summary:
+Total Units: 250
+Occupied: 180
+Vacant: 35
+Notice: 20
+Vacant-Leased: 15
+Occupancy Rate: 86%
+Physical Occupancy: 72%
+Economic Occupancy: 82%
+
+Additional Property Metrics:
+Delinquency Rate: 3.5%
+Lease Renewal Rate: 65%
+Average Length of Stay: 18 months
+Turn Times Average: 12 days
+Bad Debt YTD: $45,000
+Concessions YTD: $120,000
+
+Unit Mix:
+Studio: 30 units (12%)
+1 Bedroom: 100 units (40%)
+2 Bedroom: 95 units (38%)
+3 Bedroom: 25 units (10%)
+
+Income Summary:
+Gross Potential Rent: $450,000
+Loss to Lease: $25,000
+Vacancy Loss: $40,000
+Bad Debt: $15,000
+Net Rental Income: $370,000
+Other Income: $25,000
+Effective Gross Income: $395,000 

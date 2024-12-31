@@ -1,0 +1,37 @@
+Property Name: Parkview Apartments
+Property Address: 123 Main Street, Anytown, USA 12345
+Report Date: 2024-03-15
+Property Manager: John Smith
+Total Units: 50
+
+Unit,Unit Type,Square Feet,Status,Tenant Name,Move In,Lease Start,Lease End,Move Out,Monthly Rent,Security Deposit,Other Income,Total Monthly,Balance,Notes
+A101,2B/2B,950,Occupied,James Wilson,2023-01-15,2023-01-15,2024-01-14,,1850.00,1850.00,25.00,1875.00,0.00,Pet Rent $25
+A102,1B/1B,700,Vacant,,,,,2024-02-28,1500.00,0.00,0.00,0.00,0.00,Ready for move-in
+A103,2B/1B,850,Notice,Sarah Brown,2022-06-01,2022-06-01,2024-04-30,2024-04-30,1650.00,1650.00,0.00,1650.00,0.00,30-day notice received
+A104,Studio,500,Occupied,Michael Lee,2023-08-15,2023-08-15,2024-08-14,,1200.00,1200.00,0.00,1200.00,150.00,Late fee assessed
+A105,2B/2B,950,Vacant-Leased,David Miller,2024-04-01,2024-04-01,2025-03-31,,1900.00,1900.00,0.00,1900.00,0.00,Move-in scheduled
+B201,1B/1B,700,Occupied,Emma Davis,2023-03-01,2023-03-01,2024-02-29,,1550.00,1550.00,50.00,1600.00,0.00,Parking space $50
+B202,2B/2B,950,Occupied,Robert Taylor,2023-11-15,2023-11-15,2024-11-14,,1875.00,1875.00,25.00,1900.00,0.00,Pet Rent $25
+B203,Studio,500,Vacant,,,,,2024-01-31,1250.00,0.00,0.00,0.00,0.00,Under renovation
+B204,2B/1B,850,Occupied,Linda White,2023-05-01,2023-05-01,2024-04-30,,1700.00,1700.00,0.00,1700.00,0.00,Good payment history
+B205,1B/1B,700,Notice,Thomas Anderson,2022-09-15,2022-09-15,2024-03-31,2024-03-31,1525.00,1525.00,50.00,1575.00,0.00,Parking space $50
+C301,2B/2B,950,Occupied,Jennifer Martin,2023-07-01,2023-07-01,2024-06-30,,1895.00,1895.00,0.00,1895.00,0.00,Section 8
+C302,1B/1B,700,Occupied,William Johnson,2023-10-01,2023-10-01,2024-09-30,,1575.00,1575.00,25.00,1600.00,0.00,Pet Rent $25
+C303,2B/1B,850,Vacant-Leased,Maria Garcia,2024-04-15,2024-04-15,2025-04-14,,1725.00,1725.00,0.00,1725.00,0.00,Approved application
+C304,Studio,500,Occupied,Christopher Lee,2023-12-01,2023-12-01,2024-11-30,,1225.00,1225.00,0.00,1225.00,0.00,Month-to-month
+C305,2B/2B,950,Occupied,Elizabeth Brown,2023-02-15,2023-02-15,2024-02-14,,1885.00,1885.00,50.00,1935.00,0.00,Parking space $50
+
+Market Rent Summary:
+Unit Type,Square Feet,Market Rent Range
+Studio,500,1200-1300
+1B/1B,700,1500-1600
+2B/1B,850,1650-1750
+2B/2B,950,1850-1950
+
+Occupancy Summary:
+Total Units: 15
+Occupied: 9
+Vacant: 2
+Notice: 2
+Vacant-Leased: 2
+Occupancy Rate: 87% 
